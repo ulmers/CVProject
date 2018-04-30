@@ -427,8 +427,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5ARCMQW33U;
+				DEVELOPMENT_TEAM = 6K4HVNMZAB;
 				INFOPLIST_FILE = CVProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Stephen.CVProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -442,8 +443,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5ARCMQW33U;
+				DEVELOPMENT_TEAM = 6K4HVNMZAB;
 				INFOPLIST_FILE = CVProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Stephen.CVProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
